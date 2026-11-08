@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-owner-katana-colorways.jpg
 ---
 # Owner attachment - Katana colorway set
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-owner-katana-colorways.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 Five colorways of one katana design, plus two close-ups. The owner shared it; its original listing is not yet identified.
 

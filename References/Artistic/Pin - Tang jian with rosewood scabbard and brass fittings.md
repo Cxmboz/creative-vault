@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-pin-tang-jian.jpg
 ---
 # Pin - Tang jian with rosewood scabbard and brass fittings
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-pin-tang-jian.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 Product photo of a modern reproduction Tang-style jian.
 

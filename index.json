@@ -274,9 +274,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-brunopinto112-katana-sheet.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/CreativeDyslexic - Tsuba Designs No.2.md",
@@ -299,9 +300,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-creativedyslexic-tsuba-2.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/Owner attachment - Katana colorway set.md",
@@ -325,9 +327,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-owner-katana-colorways.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/Owner attachment - KuroYami purple sword.md",
@@ -350,9 +353,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Futuristic Track (Parked)"
+   "Futuristic Track (Parked)",
+   "ref-owner-kuroyami.jpg"
   ],
-  "summary": "Futuristic track, parked. Inspiration only; no image stored."
+  "summary": "Futuristic track, parked. Inspiration only. Private copy in `_private-refs/` (never uploaded)."
  },
  {
   "path": "References/Artistic/Pin - Higo koshirae with stone-texture lacquer scabbard.md",
@@ -377,9 +381,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-pin-higo-koshirae.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/Pin - Tachi mounting with single gold dragon.md",
@@ -403,9 +408,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-pin-tachi-dragon.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/Pin - Tang jian with rosewood scabbard and brass fittings.md",
@@ -429,9 +435,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-pin-tang-jian.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/SRegan - Backsabre silhouette strip.md",
@@ -455,9 +462,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-sregan-backsabre.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/WargateDirector - Light-Infantry Longsword.md",
@@ -481,9 +489,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-wargatedirector-longsword.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Artistic/XXBLD03 - weapon designs (credit only).md",
@@ -530,9 +539,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Grounded Design Ideas"
+   "Grounded Design Ideas",
+   "ref-sam1027-han-jian.jpg"
   ],
-  "summary": "Inspiration only. No image is stored here; open the source link."
+  "summary": "Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link."
  },
  {
   "path": "References/Museum/Cleveland 1916.1600 - 15th-century sword with wheel pommel.md",
@@ -872,9 +882,10 @@
   "verified": false,
   "status": "active",
   "links": [
-   "Credits"
+   "Credits",
+   "file"
   ],
-  "summary": "possible, otherwise record who pinned it and mark the creator \"unidentified\"."
+  "summary": "ignored by Git, so it stays on the owner's PC and is never uploaded or shared. Embed them in notes"
  },
  {
   "path": "_system/Note Schema.md",

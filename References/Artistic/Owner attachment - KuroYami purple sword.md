@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-owner-kuroyami.jpg
 ---
 # Owner attachment - KuroYami purple sword
 
-Futuristic track, parked. Inspiration only; no image stored.
+![[ref-owner-kuroyami.jpg]]
+
+Futuristic track, parked. Inspiration only. Private copy in `_private-refs/` (never uploaded).
 
 ## What caught our attention
 A hollow blade with flame-shaped cutouts and a glowing core; a crescent scabbard with a faint single-line dragon engraving and a cord-wrapped band.

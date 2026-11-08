@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-sam1027-han-jian.jpg
 ---
 # sam1027 - Chinese Sword Design (Han and Tassel Jian)
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-sam1027-han-jian.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 © 2013 sam1027. Published Mar 24, 2013. Not labeled AI-generated.
 

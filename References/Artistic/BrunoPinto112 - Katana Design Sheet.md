@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-brunopinto112-katana-sheet.jpg
 ---
 # BrunoPinto112 - Katana Design Sheet
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-brunopinto112-katana-sheet.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 © 2020 BrunoPinto112. Published Aug 22, 2020. Not labeled AI-generated.
 

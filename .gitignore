@@ -29,3 +29,6 @@
 
 # Python
 __pycache__/
+
+# Copies of artists' reference images: viewable in Obsidian, never uploaded
+_private-refs/

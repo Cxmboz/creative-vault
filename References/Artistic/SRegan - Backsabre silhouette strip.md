@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-sregan-backsabre.jpg
 ---
 # SRegan - Backsabre silhouette strip
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-sregan-backsabre.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 © 2016 SRegan. Published Jul 26, 2016. Not labeled AI-generated.
 

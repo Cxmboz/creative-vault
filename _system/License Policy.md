@@ -20,7 +20,9 @@ status: active
 
 ## Artistic references (DeviantArt, Pinterest, concept art)
 
-- Stored as **notes and links only**. Never copy their images into the vault or the asset library.
+- Images may be kept as **private study copies** in `_private-refs/` inside the vault. That folder is
+  ignored by Git, so it stays on the owner's PC and is never uploaded or shared. Embed them in notes
+  with `![[file]]`. Never move them into `Attachments/`, the asset library, or any published file.
 - Always record the creator. Pinterest pins are often re-posts: trace to the original where
   possible, otherwise record who pinned it and mark the creator "unidentified".
 - Take **individual ideas** (a material pairing, a placement rule, a silhouette move) and

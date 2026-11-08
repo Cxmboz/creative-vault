@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-pin-tachi-dragon.jpg
 ---
 # Pin - Tachi mounting with single gold dragon
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-pin-tachi-dragon.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 Photo of a tachi mounting. Original photographer not identified.
 

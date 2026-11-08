@@ -28,6 +28,6 @@ This repository is a curated creative knowledge vault. Read this file fully befo
 - `_system/License Policy.md`: what may go into a model or a published game.
 - `_system/Originality Rules.md` and `_system/Cliche List.md`: how references are used.
 - Never commit large binaries (models, textures, HDRIs, .blend, video). See `.gitignore`.
-- Artistic references (DeviantArt, Pinterest, ArtStation, concept art): notes and links only,
-  never copied images, never traced. Record the creator and honor any stated terms. See the
+- Artistic references (DeviantArt, Pinterest, ArtStation, concept art): private study copies only in the
+  Git-ignored `_private-refs/` folder (on the owner's PC), never committed, never traced into models. Record the creator and honor any stated terms. See the
   artistic-references section of `_system/License Policy.md`.

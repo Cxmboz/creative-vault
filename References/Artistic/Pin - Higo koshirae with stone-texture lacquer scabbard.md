@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-pin-higo-koshirae.jpg
 ---
 # Pin - Higo koshirae with stone-texture lacquer scabbard
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-pin-higo-koshirae.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 Photo of a real antique mounting. The Japanese caption reads roughly: Higo-period mounting with stone-textured lacquer scabbard, with a Higo-school Nishigaki openwork paulownia tsuba with inlay.
 

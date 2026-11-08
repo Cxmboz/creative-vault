@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-creativedyslexic-tsuba-2.jpg
 ---
 # CreativeDyslexic - Tsuba Designs No.2
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-creativedyslexic-tsuba-2.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 © 2023 CreativeDyslexic. Published Mar 14, 2023. Not labeled AI-generated.
 

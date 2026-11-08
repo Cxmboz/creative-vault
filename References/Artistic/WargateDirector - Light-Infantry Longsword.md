@@ -17,10 +17,13 @@ reuse: reference-only
 author: claude
 verified: false
 status: active
+local_image: _private-refs/ref-wargatedirector-longsword.jpg
 ---
 # WargateDirector - Light-Infantry Longsword
 
-Inspiration only. No image is stored here; open the source link.
+![[ref-wargatedirector-longsword.jpg]]
+
+Inspiration only. Private copy in `_private-refs/` (on this PC, never uploaded); original at the source link.
 
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0. Published Mar 28, 2024. Blender render. Not labeled AI-generated. Non-commercial, so inspiration only for a published game.
 
