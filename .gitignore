@@ -1,0 +1,31 @@
+# Obsidian per-device state
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# Large or binary assets never go in Git (they live in ../Creative Assets)
+*.blend
+*.blend1
+*.fbx
+*.obj
+*.glb
+*.gltf
+*.stl
+*.ply
+*.rbxm
+*.rbxl
+*.exr
+*.hdr
+*.tif
+*.tiff
+*.psd
+*.kra
+*.mp4
+*.mov
+*.wav
+*.zip
+*.7z
+*.rar
+
+# Python
+__pycache__/
