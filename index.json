@@ -151,6 +151,31 @@
   "summary": "Weapon and design traditions: Japanese, Chinese, European and more."
  },
  {
+  "path": "Projects/Sword Arsenal/Handoff - 2026-11-08.md",
+  "title": "Handoff - 2026-11-08",
+  "type": "project",
+  "domain": [
+   "weapons",
+   "animation",
+   "modeling",
+   "texturing"
+  ],
+  "tags": [
+   "handoff"
+  ],
+  "tradition": "",
+  "part": "",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [],
+  "summary": "Context for any AI agent picking up this project. Read `AGENTS.md` at the vault root first."
+ },
+ {
   "path": "Projects/Sword Arsenal/Inspiration/Futuristic Track (Parked).md",
   "title": "Futuristic Track (Parked)",
   "type": "project",
