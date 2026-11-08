@@ -16,6 +16,7 @@ animated on the R6 IK/FK rig in Blender.
 - Design document (standards, capability tiers, prototype plan): Claude Doc "Sword Arsenal — Design Document"
 - Vault architecture: Claude Doc "Reference Vault — Research and Architecture"
 - Specs: `Weapons/` (one note per weapon, from the Weapon Spec template)
+- Inspiration: [[Grounded Design Ideas]] · [[Futuristic Track (Parked)]] · [[Reference Index]]
 
 ## Prototypes
 | ID | Family | Stage |
@@ -29,3 +30,4 @@ animated on the R6 IK/FK rig in Blender.
 | --- | --- |
 | 2026-11-08 | Three prototypes (J01, C01, E01) validate the workflow before production |
 | 2026-11-08 | Vault architecture: Obsidian + GitHub + separate asset storage |
+| 2026-11-08 | Futuristic designs kept on a separate, parked track; grounded weapons first |

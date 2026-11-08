@@ -85,6 +85,36 @@
   "summary": "Blades, guards, grips, pommels, scabbards and fittings, across traditions."
  },
  {
+  "path": "Knowledge/Parts/Proportions from Museum Records.md",
+  "title": "Proportions from Museum Records",
+  "type": "knowledge",
+  "domain": [
+   "weapons",
+   "modeling"
+  ],
+  "tags": [
+   "proportions"
+  ],
+  "tradition": "n/a",
+  "part": "whole",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "Cleveland 1916.1600 - 15th-century sword with wheel pommel",
+   "Cleveland 1974.58 - Hand-and-a-half sword with side ring",
+   "Met 24378 - Katana mounting with pampas-grass lacquer",
+   "Met 25653 - Warring States bronze sword",
+   "Met 27929 - Double sword sharing one scabbard",
+   "Met 27932 - Jian with jade hilt and green sharkskin scabbard"
+  ],
+  "summary": "Measured dimensions from museum catalog records, to keep our proportions honest. Ratios are"
+ },
+ {
   "path": "Knowledge/Techniques/Techniques.md",
   "title": "Techniques",
   "type": "moc",
@@ -121,6 +151,77 @@
   "summary": "Weapon and design traditions: Japanese, Chinese, European and more."
  },
  {
+  "path": "Projects/Sword Arsenal/Inspiration/Futuristic Track (Parked).md",
+  "title": "Futuristic Track (Parked)",
+  "type": "project",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "futuristic"
+  ],
+  "tradition": "",
+  "part": "",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "Owner attachment - KuroYami purple sword",
+   "XXBLD03 - weapon designs (credit only)"
+  ],
+  "summary": "A separate track for stylized and futuristic weapons, kept apart from the grounded arsenal"
+ },
+ {
+  "path": "Projects/Sword Arsenal/Inspiration/Grounded Design Ideas.md",
+  "title": "Grounded Design Ideas",
+  "type": "knowledge",
+  "domain": [
+   "weapons",
+   "texturing",
+   "modeling"
+  ],
+  "tags": [
+   "colorway",
+   "palette",
+   "placement",
+   "cohesion"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "BrunoPinto112 - Katana Design Sheet",
+   "Cleveland 1916.1600 - 15th-century sword with wheel pommel",
+   "Cleveland 1974.58 - Hand-and-a-half sword with side ring",
+   "CreativeDyslexic - Tsuba Designs No.2",
+   "Met 23352 - Sword with scabbard mounts ca. 600",
+   "Met 24378 - Katana mounting with pampas-grass lacquer",
+   "Met 25653 - Warring States bronze sword",
+   "Met 26069 - Shakudo collar with fish-roe ground",
+   "Met 27929 - Double sword sharing one scabbard",
+   "Met 27932 - Jian with jade hilt and green sharkskin scabbard",
+   "Met 894754 - Itomaki-tachi slung sword mounting",
+   "Owner attachment - Katana colorway set",
+   "Pin - Higo koshirae with stone-texture lacquer scabbard",
+   "Pin - Tachi mounting with single gold dragon",
+   "Pin - Tang jian with rosewood scabbard and brass fittings",
+   "SRegan - Backsabre silhouette strip",
+   "WargateDirector - Light-Infantry Longsword",
+   "sam1027 - Chinese Sword Design (Han and Tassel Jian)"
+  ],
+  "summary": "Ideas drawn from the first reference batch (Nov 8, 2026). Each idea names its sources and"
+ },
+ {
   "path": "Projects/Sword Arsenal/Sword Arsenal.md",
   "title": "Sword Arsenal",
   "type": "project",
@@ -144,8 +245,538 @@
   "author": "claude",
   "verified": false,
   "status": "active",
-  "links": [],
+  "links": [
+   "Futuristic Track (Parked)",
+   "Grounded Design Ideas",
+   "Reference Index"
+  ],
   "summary": "Goal: a growing set of distinct swords with matching scabbards for a Roblox combat game,"
+ },
+ {
+  "path": "References/Artistic/BrunoPinto112 - Katana Design Sheet.md",
+  "title": "BrunoPinto112 - Katana Design Sheet",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "katana",
+   "palette",
+   "mon"
+  ],
+  "tradition": "japanese",
+  "part": "whole",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://www.deviantart.com/brunopinto112/art/Katana-Design-Sheet-852846618",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/CreativeDyslexic - Tsuba Designs No.2.md",
+  "title": "CreativeDyslexic - Tsuba Designs No.2",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "tsuba",
+   "silhouette"
+  ],
+  "tradition": "japanese",
+  "part": "guard",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://www.deviantart.com/creativedyslexic/art/Tsuba-Designs-No.2-953600748",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/Owner attachment - Katana colorway set.md",
+  "title": "Owner attachment - Katana colorway set",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "katana",
+   "colorway",
+   "koshirae"
+  ],
+  "tradition": "japanese",
+  "part": "whole",
+  "license": "unknown",
+  "reuse": "reference-only",
+  "source_url": "n/a (ask owner for the listing)",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/Owner attachment - KuroYami purple sword.md",
+  "title": "Owner attachment - KuroYami purple sword",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "futuristic",
+   "pierced-blade"
+  ],
+  "tradition": "original",
+  "part": "whole",
+  "license": "unknown",
+  "reuse": "reference-only",
+  "source_url": "n/a",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Futuristic Track (Parked)"
+  ],
+  "summary": "Futuristic track, parked. Inspiration only; no image stored."
+ },
+ {
+  "path": "References/Artistic/Pin - Higo koshirae with stone-texture lacquer scabbard.md",
+  "title": "Pin - Higo koshirae with stone-texture lacquer scabbard",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "koshirae",
+   "ishime",
+   "tsuba",
+   "sukashi"
+  ],
+  "tradition": "japanese",
+  "part": "scabbard",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://ar.pinterest.com/pin/308004062000215416/",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/Pin - Tachi mounting with single gold dragon.md",
+  "title": "Pin - Tachi mounting with single gold dragon",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "tachi",
+   "maki-e",
+   "dragon"
+  ],
+  "tradition": "japanese",
+  "part": "scabbard",
+  "license": "unknown",
+  "reuse": "reference-only",
+  "source_url": "https://www.pinterest.com/pin/290130400974009112/",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/Pin - Tang jian with rosewood scabbard and brass fittings.md",
+  "title": "Pin - Tang jian with rosewood scabbard and brass fittings",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "jian",
+   "rosewood",
+   "brass"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://www.pinterest.com/pin/422986590016027016/",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/SRegan - Backsabre silhouette strip.md",
+  "title": "SRegan - Backsabre silhouette strip",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "silhouette",
+   "process",
+   "backsword"
+  ],
+  "tradition": "original",
+  "part": "whole",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://www.deviantart.com/sregan/art/Backsabre-624133308",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/WargateDirector - Light-Infantry Longsword.md",
+  "title": "WargateDirector - Light-Infantry Longsword",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "longsword",
+   "blender",
+   "shoulder-flare"
+  ],
+  "tradition": "european",
+  "part": "whole",
+  "license": "CC-BY-NC-SA",
+  "reuse": "reference-only",
+  "source_url": "https://www.deviantart.com/wargatedirector/art/Light-Infantry-Longsword-1036101557",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Artistic/XXBLD03 - weapon designs (credit only).md",
+  "title": "XXBLD03 - weapon designs (credit only)",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "futuristic"
+  ],
+  "tradition": "original",
+  "part": "whole",
+  "license": "proprietary",
+  "reuse": "do-not-use",
+  "source_url": "n/a (artist's home platform not yet identified)",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [],
+  "summary": "Three designs shared by the owner: item adoptable #551 and two commission pieces. The artist"
+ },
+ {
+  "path": "References/Artistic/sam1027 - Chinese Sword Design (Han and Tassel Jian).md",
+  "title": "sam1027 - Chinese Sword Design (Han and Tassel Jian)",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "jian",
+   "tassel",
+   "rhombus-pattern",
+   "huiwen"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "proprietary",
+  "reuse": "reference-only",
+  "source_url": "https://www.deviantart.com/sam1027/art/Chinese-Sword-Design-%28Han-Sword-Tassel-Jian%29-361178625",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas"
+  ],
+  "summary": "Inspiration only. No image is stored here; open the source link."
+ },
+ {
+  "path": "References/Museum/Cleveland 1916.1600 - 15th-century sword with wheel pommel.md",
+  "title": "Cleveland 1916.1600 - 15th-century sword with wheel pommel",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "arming-sword",
+   "wheel-pommel"
+  ],
+  "tradition": "european",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://clevelandart.org/art/1916.1600",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "cma-1916.1600.jpg"
+  ],
+  "summary": "The baseline: wheel pommel, straight cross, leather grip, nothing else. Anything we add to a European sword should be measured against how strong this plain silhouette already is."
+ },
+ {
+  "path": "References/Museum/Cleveland 1974.58 - Hand-and-a-half sword with side ring.md",
+  "title": "Cleveland 1974.58 - Hand-and-a-half sword with side ring",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "longsword",
+   "side-ring",
+   "sharkskin"
+  ],
+  "tradition": "european",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://clevelandart.org/art/1974.58",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "cma-1974.58.jpg"
+  ],
+  "summary": "Long straight quillons with flared tips, a side ring guarding the hand, a faceted pear pommel, a sharkskin grip. The side ring is a functional detail that makes the hilt memorable."
+ },
+ {
+  "path": "References/Museum/Met 23352 - Sword with scabbard mounts ca. 600.md",
+  "title": "Met 23352 - Sword with scabbard mounts ca. 600",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "ring-pommel",
+   "scabbard",
+   "suspension"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/23352",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-23352.jpg"
+  ],
+  "summary": "A ring pommel, and a long slim scabbard articulated by metal bands and suspension mounts. The bands give the scabbard rhythm without surface decoration."
+ },
+ {
+  "path": "References/Museum/Met 24378 - Katana mounting with pampas-grass lacquer.md",
+  "title": "Met 24378 - Katana mounting with pampas-grass lacquer",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "katana",
+   "lacquered",
+   "koshirae",
+   "sageo",
+   "maki-e"
+  ],
+  "tradition": "japanese",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/24378",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-24378.jpg"
+  ],
+  "summary": "Restraint done right. The scabbard is plain black lacquer except for one motif: pampas grass in gold maki-e (lacquer with sprinkled gold). The pale green braided cord is the only accent color. The scabbard tip has a metal cap."
+ },
+ {
+  "path": "References/Museum/Met 25653 - Warring States bronze sword.md",
+  "title": "Met 25653 - Warring States bronze sword",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "jian",
+   "bronze"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/25653",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-25653.jpg"
+  ],
+  "summary": "The ancestor of the jian: a ridged straight blade, a solid hilt with two raised rings, a broad short guard. Green-brown patina. Every detail is structural."
+ },
+ {
+  "path": "References/Museum/Met 26069 - Shakudo collar with fish-roe ground.md",
+  "title": "Met 26069 - Shakudo collar with fish-roe ground",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "fuchi-kashira",
+   "shakudo",
+   "nanako"
+  ],
+  "tradition": "japanese",
+  "part": "fitting",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/26069",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-26069.jpg"
+  ],
+  "summary": "Ornament through texture. The background is nanako: rows of tiny raised dots. Gold figures sit on top. Shakudō is a black-violet copper-gold alloy, and black with gold is a classic contrast pair."
+ },
+ {
+  "path": "References/Museum/Met 27929 - Double sword sharing one scabbard.md",
+  "title": "Met 27929 - Double sword sharing one scabbard",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "jian",
+   "double-sword",
+   "sharkskin"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/27929",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-27929.jpg"
+  ],
+  "summary": "Two flat-backed swords nest together in one scabbard and are drawn as a pair. Cloud-shaped gilt guards, wooden grips, sharkskin scabbard with gilt bands."
+ },
+ {
+  "path": "References/Museum/Met 27932 - Jian with jade hilt and green sharkskin scabbard.md",
+  "title": "Met 27932 - Jian with jade hilt and green sharkskin scabbard",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "jian",
+   "jade",
+   "sharkskin"
+  ],
+  "tradition": "chinese",
+  "part": "whole",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/27932",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-27932.jpg"
+  ],
+  "summary": "Three materials, each doing one job: pale jade hilt, green-dyed sharkskin scabbard, gold fittings. Luxurious without a single gem or engraving covering the surface."
+ },
+ {
+  "path": "References/Museum/Met 894754 - Itomaki-tachi slung sword mounting.md",
+  "title": "Met 894754 - Itomaki-tachi slung sword mounting",
+  "type": "reference",
+  "domain": [
+   "weapons"
+  ],
+  "tags": [
+   "tachi",
+   "itomaki",
+   "koshirae",
+   "lacquered"
+  ],
+  "tradition": "japanese",
+  "part": "scabbard",
+  "license": "CC0",
+  "reuse": "free",
+  "source_url": "https://www.metmuseum.org/art/collection/search/894754",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Grounded Design Ideas",
+   "met-894754.jpg"
+  ],
+  "summary": "The upper scabbard is wrapped in the same braided thread as the grip (itomaki means thread-wrapped), so the sword and scabbard read as one object by construction, not by matching paint. Gold-flecked lacquer below, openwork guard, and hanger"
  },
  {
   "path": "References/Reference Index.md",
@@ -162,8 +793,32 @@
   "author": "",
   "verified": false,
   "status": "active",
-  "links": [],
-  "summary": "One note per external reference, in References/Museum, References/Materials, References/Docs."
+  "links": [
+   "BrunoPinto112 - Katana Design Sheet",
+   "Cleveland 1916.1600 - 15th-century sword with wheel pommel",
+   "Cleveland 1974.58 - Hand-and-a-half sword with side ring",
+   "CreativeDyslexic - Tsuba Designs No.2",
+   "Futuristic Track (Parked)",
+   "Grounded Design Ideas",
+   "Met 23352 - Sword with scabbard mounts ca. 600",
+   "Met 24378 - Katana mounting with pampas-grass lacquer",
+   "Met 25653 - Warring States bronze sword",
+   "Met 26069 - Shakudo collar with fish-roe ground",
+   "Met 27929 - Double sword sharing one scabbard",
+   "Met 27932 - Jian with jade hilt and green sharkskin scabbard",
+   "Met 894754 - Itomaki-tachi slung sword mounting",
+   "Owner attachment - Katana colorway set",
+   "Owner attachment - KuroYami purple sword",
+   "Pin - Higo koshirae with stone-texture lacquer scabbard",
+   "Pin - Tachi mounting with single gold dragon",
+   "Pin - Tang jian with rosewood scabbard and brass fittings",
+   "Proportions from Museum Records",
+   "SRegan - Backsabre silhouette strip",
+   "WargateDirector - Light-Infantry Longsword",
+   "XXBLD03 - weapon designs (credit only)",
+   "sam1027 - Chinese Sword Design (Han and Tassel Jian)"
+  ],
+  "summary": ""
  },
  {
   "path": "_system/Cliche List.md",
@@ -219,7 +874,7 @@
   "links": [
    "Credits"
   ],
-  "summary": ""
+  "summary": "possible, otherwise record who pinned it and mark the creator \"unidentified\"."
  },
  {
   "path": "_system/Note Schema.md",

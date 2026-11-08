@@ -5,6 +5,11 @@ domain: [weapons]
 tags: []
 tradition: n/a
 part: n/a
+source_type:
+ref_class:
+style_track: grounded
+creator:
+ai_generated: unknown
 source_name:
 source_url:
 license: unknown
@@ -27,6 +32,11 @@ status: draft
 
 ## What it teaches
 Construction details, proportions or techniques worth taking from it.
+
+## Elements
+| Element | Origin | How we could use it |
+| --- | --- | --- |
+|  | Historical / Artistic / Process |  |
 
 ## Use in our work
 Which knowledge cards or specs cite it.
