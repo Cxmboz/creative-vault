@@ -115,6 +115,122 @@
   "summary": "Measured dimensions from museum catalog records, to keep our proportions honest. Ratios are"
  },
  {
+  "path": "Knowledge/Techniques/Blender to Roblox Export Checklist.md",
+  "title": "Blender to Roblox Export Checklist",
+  "type": "knowledge",
+  "domain": [
+   "modeling",
+   "weapons"
+  ],
+  "tags": [
+   "roblox-import"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "GitHub Learning Resources - Research",
+   "Handoff - 2026-11-08"
+  ],
+  "summary": "A weapon arrives in Studio at the right size and facing the right way only when Blender's"
+ },
+ {
+  "path": "Knowledge/Techniques/GitHub Learning Resources - Research.md",
+  "title": "GitHub Learning Resources - Research",
+  "type": "knowledge",
+  "domain": [
+   "animation",
+   "modeling",
+   "texturing",
+   "scripting"
+  ],
+  "tags": [
+   "roblox-import",
+   "rigging",
+   "pbr",
+   "procedural"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "Blender to Roblox Export Checklist",
+   "Credits",
+   "Handoff - 2026-11-08",
+   "Interpolation and Easing - Blender and Roblox",
+   "PBR Textures for Roblox SurfaceAppearance",
+   "Sword Arsenal",
+   "Weapon Attachment - Prop Bones and Motor6D"
+  ],
+  "summary": "A bounded first pass at public GitHub repositories that can teach practical skills for"
+ },
+ {
+  "path": "Knowledge/Techniques/Interpolation and Easing - Blender and Roblox.md",
+  "title": "Interpolation and Easing - Blender and Roblox",
+  "type": "knowledge",
+  "domain": [
+   "animation"
+  ],
+  "tags": [
+   "easing"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "GitHub Learning Resources - Research"
+  ],
+  "summary": "Keys set the poses; interpolation decides how the in-between frames are filled, and the shape"
+ },
+ {
+  "path": "Knowledge/Techniques/PBR Textures for Roblox SurfaceAppearance.md",
+  "title": "PBR Textures for Roblox SurfaceAppearance",
+  "type": "knowledge",
+  "domain": [
+   "texturing",
+   "weapons"
+  ],
+  "tags": [
+   "pbr",
+   "baking",
+   "uv",
+   "colorway"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "Cliche List",
+   "GitHub Learning Resources - Research",
+   "Grounded Design Ideas"
+  ],
+  "summary": "Roblox shades a mesh from up to five texture maps on a `SurfaceAppearance`, and a weapon reads as"
+ },
+ {
   "path": "Knowledge/Techniques/Techniques.md",
   "title": "Techniques",
   "type": "moc",
@@ -129,8 +245,41 @@
   "author": "",
   "verified": false,
   "status": "active",
-  "links": [],
+  "links": [
+   "Blender to Roblox Export Checklist",
+   "GitHub Learning Resources - Research",
+   "Interpolation and Easing - Blender and Roblox",
+   "PBR Textures for Roblox SurfaceAppearance",
+   "Weapon Attachment - Prop Bones and Motor6D"
+  ],
   "summary": "Blender modeling, texturing, baking, Roblox import and animation methods."
+ },
+ {
+  "path": "Knowledge/Techniques/Weapon Attachment - Prop Bones and Motor6D.md",
+  "title": "Weapon Attachment - Prop Bones and Motor6D",
+  "type": "knowledge",
+  "domain": [
+   "animation",
+   "weapons"
+  ],
+  "tags": [
+   "rigging",
+   "roblox-import"
+  ],
+  "tradition": "n/a",
+  "part": "n/a",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "draft",
+  "links": [
+   "GitHub Learning Resources - Research",
+   "Handoff - 2026-11-08"
+  ],
+  "summary": "Give the weapon its own bone in the rig and animate that bone, so the sword can follow the"
  },
  {
   "path": "Knowledge/Traditions/Traditions.md",
