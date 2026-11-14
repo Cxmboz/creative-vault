@@ -396,6 +396,34 @@
   "summary": "Ideas drawn from the first reference batch (Nov 8, 2026). Each idea names its sources and"
  },
  {
+  "path": "Projects/Sword Arsenal/R6 Weapon Scene - C00 Jian (Original Rig).md",
+  "title": "R6 Weapon Scene - C00 Jian (Original Rig)",
+  "type": "project",
+  "domain": [
+   "animation",
+   "weapons"
+  ],
+  "tags": [
+   "rigging",
+   "roblox-import"
+  ],
+  "tradition": "",
+  "part": "",
+  "license": "",
+  "reuse": "",
+  "source_url": "",
+  "local_path": "",
+  "author": "claude",
+  "verified": false,
+  "status": "active",
+  "links": [
+   "Blender to Roblox Export Checklist",
+   "Sword Arsenal",
+   "Weapon Attachment - Prop Bones and Motor6D"
+  ],
+  "summary": "Goal: a ready-to-animate Blender scene with the C00 jian and its scabbard on a fresh copy of the"
+ },
+ {
   "path": "Projects/Sword Arsenal/Sword Arsenal.md",
   "title": "Sword Arsenal",
   "type": "project",
@@ -422,6 +450,7 @@
   "links": [
    "Futuristic Track (Parked)",
    "Grounded Design Ideas",
+   "R6 Weapon Scene - C00 Jian (Original Rig)",
    "Reference Index"
   ],
   "summary": "Goal: a growing set of distinct swords with matching scabbards for a Roblox combat game,"
